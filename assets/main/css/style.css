@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', Arial, Helvetica, sans-serif
+}
+
+
+/* ------------- Home section begin-------------*/
+.home {
+    background: #926ff6;
+}
+.my_nav {
+    background: #926ff6;
+}
+
+.my_nav .navbar-brand {
+    font-weight: 800;
+}
+
+.my_nav .nav_link {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+
+.gold_text {
+    font-weight: 800;
+    font-size: 12.27px;
+    color: hsla(47, 100%, 73%, 1);
+}
+
+.home_title {
+    font-weight: 800;
+    color: #fff;
+    font-size: 62.8px;
+}
+
+.home_text {
+    color: #fff;
+    font-weight: 300;
+    font-size: 16px;
+}
+/* ------------- Home section end-------------*/
+
+
+
+/*----- About Section Begin-----*/
+
+.about_bg {
+    color: hsla(0, 0%, 31%, 1);
+}
+
+.text_decoretion {
+    color: hsla(345, 82%, 74%, 1);
+    font-weight: 600;
+}
+
+/*----- About Section end -----*/
+
+
+/*----- Research Section Begin -----*/
+.box {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+/*----- Research Section End -----*/
+
+/*----- Portfolio Section begin -----*/
+
+.browse_bg {
+    color: hsla(0, 0%, 100%, 1);
+    background: hsla(345, 82%, 74%, 1);
+    text-decoration: none;
+    padding: 5px 24px;
+    border-radius: 26px;
+}
+
+.my_link {
+    color: #828282;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+/*----- Portfolio Section end -----*/
+
+/*----- Updates Section begin -----*/
+.my_link {
+    background-color: #F7EEFF;
+}
+
+/*----- Updates Section end -----*/
